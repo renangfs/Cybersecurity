@@ -5,3 +5,6 @@ Criminosos virtuais estão interessados em tudo, de cartões de crédito a proje
 existem harckers do bem,do mal e suspeitos.
 - A tecnologia da informação está em constante mudança. Isso também ocorre com a segurança cibernética.
 - Estabelecer padrões de gerenciamento de segurança da informação entre organizações nacionais e internacionais. O padrão ISO 27000 é um bom exemplo dessas iniciativas internacionais.
+- Ameaças e vulnerabilidades são as principais preocupações dos profissionais de segurança cibernética
+- Os criminosos usam ferramentas de sniffing de pacotes para capturar streams de dados em uma rede. Isso significa que todos os dados confidenciais, como nomes de usuário, senhas e números de cartão de crédito, estão em risco.
+- Os criminosos também podem usar dispositivos não autorizados, como pontos de acesso WiFi inseguro.
