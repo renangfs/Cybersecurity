@@ -8,3 +8,4 @@ existem harckers do bem,do mal e suspeitos.
 - Ameaças e vulnerabilidades são as principais preocupações dos profissionais de segurança cibernética
 - Os criminosos usam ferramentas de sniffing de pacotes para capturar streams de dados em uma rede. Isso significa que todos os dados confidenciais, como nomes de usuário, senhas e números de cartão de crédito, estão em risco.
 - Os criminosos também podem usar dispositivos não autorizados, como pontos de acesso WiFi inseguro.
+- A falsificação de pacotes permite que um criminoso interrompa ou intercepte pacotes. Esse processo permite que o criminoso sequestre uma conexão autorizada ou negue a capacidade de um indivíduo de usar determinados serviços de lrede. Os profissionais da segurança cibernética chamam isso de um ataque man in the middle.
