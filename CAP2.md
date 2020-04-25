@@ -2,3 +2,4 @@
 Controle de acesso 
  - Os conceitos de AAA
  - O primeiro "A" no AAA representa a autenticação. Autenticação verifica a identidade de um usuário para evitar acesso não autorizado. Os usuários provam sua identidade com um nome de usuário ou um ID. Além disso, os usuários precisam verificar sua identidade proporcionando uma das opções a seguir, conforme
+ - As políticas permitem que as empresas apliquem regras, procedimentos e processos específicos ao coletar, armazenar e compartilhar dados.
