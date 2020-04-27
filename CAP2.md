@@ -5,3 +5,5 @@ Controle de acesso
  - As políticas permitem que as empresas apliquem regras, procedimentos e processos específicos ao coletar, armazenar e compartilhar dados.
 -a intregridade dos dados referese a precisao e qualidade.
 - Os dados passam por várias operações, como captura, armazenamento, recuperação, atualização e transferência. Os dados devem permanecer inalterados durante todas essas operações por entidades não autorizadas.
+- Rede privada virtual (VPN) é uma rede virtual segura que usa a rede pública (ou seja, a Internet). A segurança de uma VPN está na criptografia do conteúdo do pacote entre os endpoints que definem a VPN.
+- Network Access Control (NAC) requer um conjunto de verificações antes de permitir que um dispositivo se conecte a uma rede. Algumas verificações comuns incluem software antivírus atualizados ou atualizações do sistema operacional instaladas.
