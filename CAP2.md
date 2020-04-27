@@ -8,3 +8,4 @@ Controle de acesso
 - Rede privada virtual (VPN) é uma rede virtual segura que usa a rede pública (ou seja, a Internet). A segurança de uma VPN está na criptografia do conteúdo do pacote entre os endpoints que definem a VPN.
 - Network Access Control (NAC) requer um conjunto de verificações antes de permitir que um dispositivo se conecte a uma rede. Algumas verificações comuns incluem software antivírus atualizados ou atualizações do sistema operacional instaladas.
 O padrão ISO/IEC 27002 define controles de sistema de gerenciamento de segurança da informação
+- ISO é modelos de procvedimentos de  segurança
