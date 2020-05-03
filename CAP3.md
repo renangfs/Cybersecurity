@@ -15,3 +15,21 @@ O ransomware aprisiona um sistema de computador ou os dados nele encontrados at�
 
 ### Backdoors e Rootkits
 Um backdoor refere-se ao programa ou código lançado por um criminoso que comprometeu um sistema. Alguns programas comuns de backdoor são o Netbus e Back Orifice, que permitem o acesso remoto a usuários do sistema não autorizados.
+Um rootkit modifica o sistema operacional para criar um backdoor.Os invasores usam o backdoor para acessar o computador remotamente. A maioria dos rootkits utiliza as vulnerabilidades do software para escalonar privilégios e modificar arquivos de sistema. 
+### Defesa contra malware
+- Programa de antivírus
+- Software atualizado
+
+spans sao lixos eletronicos
+
+O spyware frequentemente inclui rastreadores de atividade, coleta de toque de tela e captura de dados.
+
+O adware pode analisar os interesses do usuário rastreando os sites visitados. Em seguida, ele pode enviar anúncios pop-ups relacionados a esses sites.
+###  Scareware
+O scareware simula janelas pop-up que se assemelham às janelas de diálogo do sistema operacional. Essas janelas transmitem mensagens falsificadas que afirmam que o sistema está em risco ou precisa da execução de um programa específico para retornar à operação normal. Na verdade, não há problemas e, se o usuário concordar e permitir a execução do programa mencionado, o malware infectará o sistema.
+### Phishing
+O phishing ocorre quando uma parte mal-intencionada envia um e-mail fraudulento disfarçado de uma fonte legítima e confiável. A intenção da mensagem é enganar o destinatário para instalar o malware no dispositivo dele ou compartilhar informações pessoais ou financeiras. 
+O spear phishing envia e-mails personalizados a uma pessoa específica. O criminoso pesquisas os interesses da vítima antes de enviar o e-mail. Por exemplo, um criminoso descobre que a vítima está interessada em carros, procurando um modelo específico de carro para comprar. O criminoso entra no mesmo fórum de discussão de carros utilizado pela vítima, forja uma oferta de venda de carro e envia um e-mail para o alvo. O e-mail contém um link para as fotos do carro. Ao clicar no link, a vítima instala inconscientemente o malware no computador.
+
+
+
