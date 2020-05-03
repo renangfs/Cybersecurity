@@ -9,3 +9,9 @@ Enquanto um vírus requer um programa do host para execução, os worms podem se
 
 ### Bombas lógicas
 é um programa mal-intencionado que utiliza um gatilho para ativar o código malicioso. Uma bomba lógica pode sabotar os registros de banco de dados, apagar arquivos e atacar sistemas operacionais ou aplicativos. Recentemente, especialistas em segurança digital descobriram bombas lógicas que atacam e destroem os componentes de hardware em uma estação de trabalho ou servidor, incluindo as ventoinhas, CPU, memória, discos rígidos e fontes de alimentação.
+
+### Ransomware
+O ransomware aprisiona um sistema de computador ou os dados nele encontrados até que a vítima faça um pagamento. 
+
+### Backdoors e Rootkits
+Um backdoor refere-se ao programa ou código lançado por um criminoso que comprometeu um sistema. Alguns programas comuns de backdoor são o Netbus e Back Orifice, que permitem o acesso remoto a usuários do sistema não autorizados.
